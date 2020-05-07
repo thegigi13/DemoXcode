@@ -12,7 +12,6 @@ struct ContentView: View {
     var body: some View {
         Text("login")
             .foregroundColor(Color.blue)
-        .bold()
     }
 }
 
